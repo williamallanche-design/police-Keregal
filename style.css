@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'Keregal';
-    src: url('Keregal.woff2') format('woff2'),
-         url('Keregal.woff') format('woff');
+    font-family: 'Keregal2';
+    src: url('Keregal2-Regular.woff2') format('woff2'),
+        url('Keregal2-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
